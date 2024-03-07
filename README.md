@@ -5,86 +5,86 @@
 ------EEUU------
 ----------------
 
-#EXTINF:-1 tvg-logo="-" group-title="EEUU",LOUISIANA DOWNS
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",1 LOUISIANA DOWNS
 https://shlsakamai3.akamaized.net/hlsorigin/louisiana_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="-" group-title="EEUU",AQUEDUCT
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",2 AQUEDUCT
 https://shlsakamai3.akamaized.net/hlsorigin/aqueduct_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="-" group-title="EEUU",CAPITAL OTB
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",3 CAPITAL OTB
 https://shlsakamai4.akamaized.net/hlsorigin/capitalotb_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="-" group-title="EEUU",FAIR GROUNDS
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",4 FAIR GROUNDS
 https://shlsakamai3.akamaized.net/hlsorigin/fairgrounds_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="-" group-title="EEUU",NYRA BETS
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",5 NYRA BETS
 https://shlsakamai4.akamaized.net/hlsorigin/nyra_bcast_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="-" group-title="EEUU",GULFSTREAM
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",6 GULFSTREAM
 https://shlsakamai3.akamaized.net/hlsorigin/gulfstream_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="-" group-title="EEUU",MAHONING
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",7 MAHONING
 https://shlsakamai3.akamaized.net/hlsorigin/mahoning_valley_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="-" group-title="EEUU",OAKLAWN
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",8 OAKLAWN
 https://shlsakamai4.akamaized.net/hlsorigin/oaklawn_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="-" group-title="EEUU",SUNLAND
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",9 SUNLAND
 https://shlsakamai4.akamaized.net/hlsorigin/sunland_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="-" group-title="EEUU",VSIN
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",10 VSIN
 https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",  SATELITE 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",31  SATELITE 1
 https://5.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU", SATELITE 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",32 SATELITE 2
 https://5.trstream01.xyz/canal3/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU", SATELITE 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",33 SATELITE 3
 https://2.trstream01.xyz/canal4/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU", SATELITE 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",34 SATELITE 4
 https://3.trstream01.xyz/canal2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU", SATELITE 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",35 SATELITE 5
 https://2.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU", SATELITE 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",36 SATELITE 6
 https://3.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",  SATELITE 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",37  SATELITE 7
 https://1.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",  SATELITE 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",38  SATELITE 8
 https://4.trstream01.xyz/canal6/stream.m3u8
 
 
 ------UK-------
 ---------------
 
-#EXTINF:-1 tvg-logo="-" group-title="UK", LINGFIELD
+#EXTINF:-1 tvg-logo="-" group-title="UK",1 LINGFIELD
 https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="-" group-title="UK", WINKANTON
+#EXTINF:-1 tvg-logo="-" group-title="UK",2 WINKANTON
 https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="-" group-title="UK", CARLISLE
+#EXTINF:-1 tvg-logo="-" group-title="UK",3 CARLISLE
 https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="-" group-title="UK", NEWCASTLE
+#EXTINF:-1 tvg-logo="-" group-title="UK",4 NEWCASTLE
 https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
 
 ------CHILE-----
 ----------------
 
-#EXTINF:-1 tvg-logo="-" group-title="CHILE", HIPODROMO CHILE
+#EXTINF:-1 tvg-logo="-" group-title="CHILE",1 HIPODROMO CHILE
 https://shlsakamai4.akamaized.net/hlsorigin/hipodromo_chile_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-#EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png"  group-title="CHILE", TELETRAK TV
+#EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png"  group-title="CHILE",2 TELETRAK TV
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
@@ -93,7 +93,7 @@ https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 -----ARGENTINA------
 --------------------
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png/v1/fill/w_90,h_90/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png"  group-title="ARGENTINA", HIP  LA PLATA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png/v1/fill/w_90,h_90/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png"  group-title="ARGENTINA",1 HIP. LA PLATA
 https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
 
 
@@ -132,11 +132,11 @@ https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 ------------------
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="DUBAI", Dubai Racing 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="DUBAI",1 Dubai Racing 
 https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="DUBAI", Dubai Racing 2
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="DUBAI",2 Dubai Racing 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 
 
@@ -144,17 +144,17 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 ----OTROS------
 ---------------
 
-#EXTINF:-1 tvg-logo="https://www.atg.se/services/cms/img/e1647ee6a70df5933c8130e6f6ba8f3a465f11fe6002c4814721d9149b0348c9/1a758aa7-9716-42ce-b1d1-63e3812eb4b8/atg-logo-campaign-site-logo.png"  group-title="OTROS",  ATG Live
+#EXTINF:-1 tvg-logo="https://www.atg.se/services/cms/img/e1647ee6a70df5933c8130e6f6ba8f3a465f11fe6002c4814721d9149b0348c9/1a758aa7-9716-42ce-b1d1-63e3812eb4b8/atg-logo-campaign-site-logo.png"  group-title="OTROS",1  ATG Live
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png"  group-title="OTROS",  RACING CH
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png"  group-title="OTROS",2  RACING CH
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Equidia.png"  group-title="OTROS", Equidia Pro
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Equidia.png"  group-title="OTROS",3 Equidia Pro
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.stoixima.com.gr/wp-content/uploads/2019/10/stoixima-logo-330px-v2-inv.png"  group-title="OTROS", Estoixima
+#EXTINF:-1 tvg-logo="https://www.stoixima.com.gr/wp-content/uploads/2019/10/stoixima-logo-330px-v2-inv.png"  group-title="OTROS",4 Estoixima
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie_1000.m3u8
 
 
