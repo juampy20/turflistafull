@@ -95,3 +95,34 @@ https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png/v1/fill/w_90,h_90/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png"  group-title="ARGENTINA", HIP  LA PLATA
 https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
+
+
+
+
+
+---BRASIL-----
+--------------
+
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="BRASIL", Jockey C BR 1
+https://e3wx7wloxn.zoeweb.tv/pmu1/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="BRASIL", Jockey C BR 2
+https://e3wx7wloxn.zoeweb.tv/pmu2/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="BRASIL", Jockey C BR 3
+https://e3wx7wloxn.zoeweb.tv/pmu3/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="BRASIL", Jockey C BR 4
+https://e3wx7wloxn.zoeweb.tv/pmu4/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="BRASIL", Jockey C BR 5
+https://e3wx7wloxn.zoeweb.tv/pmu5/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="BRASIL", Jockey C BR 6
+https://e3wx7wloxn.zoeweb.tv/pmu6/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="BRASIL", Jockey C BR 7
+https://e3wx7wloxn.zoeweb.tv/pmu7/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="BRASIL", Jockey C BR 8
+https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
