@@ -36,6 +36,32 @@ https://shlsakamai4.akamaized.net/hlsorigin/sunland_fm_1308/chunklist.m3u8?strea
 https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",  SATELITE 1
+https://5.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU", SATELITE 2
+https://5.trstream01.xyz/canal3/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU", SATELITE 3
+https://2.trstream01.xyz/canal4/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU", SATELITE 4
+https://3.trstream01.xyz/canal2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU", SATELITE 5
+https://2.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU", SATELITE 6
+https://3.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",  SATELITE 7
+https://1.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",  SATELITE 8
+https://4.trstream01.xyz/canal6/stream.m3u8
+
+
 ------UK-------
 ---------------
 
@@ -57,6 +83,11 @@ https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?st
 
 #EXTINF:-1 tvg-logo="-" group-title="CHILE", HIPODROMO CHILE
 https://shlsakamai4.akamaized.net/hlsorigin/hipodromo_chile_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+
+#EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png"  group-title="CHILE", TELETRAK TV
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+
 
 
 -----ARGENTINA------
