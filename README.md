@@ -5,12 +5,11 @@
 ----------------
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",1 LOUISIANA DOWNS
-https://shlsakamai3.akamaized.net/hlsorigin/louisiana_fm_1308/chunklist.m3u8?
-stream=the_meadows_mbr&cust=TVG&user=&t=1709846657&h=b92bfe3b5fd774e36afbe6c0b6edda07&type=live
+https://shlsakamai4.akamaized.net/hlsorigin/louisiana_hd_fm_2200/chunklist.m3u8?stream=yonkers_mbr&cust=TVG&user=&t=1709846844&h=18e4c339137b573d904bb6c84267c236&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",2 AQUEDUCT
-https://shlsakamai3.akamaized.net/hlsorigin/aqueduct_fm_1308/chunklist.m3u8?
-stream=the_meadows_mbr&cust=TVG&user=&t=1709846657&h=b92bfe3b5fd774e36afbe6c0b6edda07&type=live
+https://shlsakamai4.akamaized.net/hlsorigin/aqueduct_fm_2200/chunklist.m3u8?
+stream=yonkers_mbr&cust=TVG&user=&t=1709846844&h=18e4c339137b573d904bb6c84267c236&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",3 CAPITAL OTB
 https://shlsakamai4.akamaized.net/hlsorigin/capitalotb_fm_1308/chunklist.m3u8?
