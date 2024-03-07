@@ -6,40 +6,52 @@
 ----------------
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",1 LOUISIANA DOWNS
-https://shlsakamai3.akamaized.net/hlsorigin/louisiana_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai3.akamaized.net/hlsorigin/louisiana_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",2 AQUEDUCT
-https://shlsakamai3.akamaized.net/hlsorigin/aqueduct_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai3.akamaized.net/hlsorigin/aqueduct_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",3 CAPITAL OTB
-https://shlsakamai4.akamaized.net/hlsorigin/capitalotb_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai4.akamaized.net/hlsorigin/capitalotb_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",4 FAIR GROUNDS
-https://shlsakamai3.akamaized.net/hlsorigin/fairgrounds_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai3.akamaized.net/hlsorigin/fairgrounds_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",5 NYRA BETS
-https://shlsakamai4.akamaized.net/hlsorigin/nyra_bcast_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai4.akamaized.net/hlsorigin/nyra_bcast_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",6 GULFSTREAM
-https://shlsakamai3.akamaized.net/hlsorigin/gulfstream_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai3.akamaized.net/hlsorigin/gulfstream_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",7 MAHONING
-https://shlsakamai3.akamaized.net/hlsorigin/mahoning_valley_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai3.akamaized.net/hlsorigin/mahoning_valley_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",8 OAKLAWN
-https://shlsakamai4.akamaized.net/hlsorigin/oaklawn_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai4.akamaized.net/hlsorigin/oaklawn_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",9 SUNLAND
-https://shlsakamai4.akamaized.net/hlsorigin/sunland_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai4.akamaized.net/hlsorigin/sunland_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",10 VSIN
-https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",11 TURF PARADISE
-https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",12 GOLDEN GATE
-https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",13 LAUREL PARK
 https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
@@ -84,23 +96,28 @@ https://4.trstream01.xyz/canal6/stream.m3u8
 ---------------
 
 #EXTINF:-1 tvg-logo="-" group-title="UK",1 LINGFIELD
-https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="UK",2 WINKANTON
-https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="UK",3 CARLISLE
-https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="UK",4 NEWCASTLE
-https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 
 ------CHILE-----
 ----------------
 
 #EXTINF:-1 tvg-logo="-" group-title="CHILE",1 HIPODROMO CHILE
-https://shlsakamai4.akamaized.net/hlsorigin/hipodromo_chile_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+https://shlsakamai4.akamaized.net/hlsorigin/hipodromo_chile_fm_1308/chunklist.m3u8?
+stream=australia_mbr&cust=TVG&user=&t=1709846255&h=5c75b1fe364718618d1998a5625b03bc&type=live
 
 #EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png"  group-title="CHILE",2 TELETRAK TV
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
