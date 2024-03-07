@@ -35,6 +35,24 @@ https://shlsakamai4.akamaized.net/hlsorigin/sunland_fm_1308/chunklist.m3u8?strea
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",10 VSIN
 https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",11 TURF PARADISE
+https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",12 GOLDEN GATE
+https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",13 LAUREL PARK
+https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",14 INDIANA  DOWNS
+https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",15 DEL MAR
+https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",16 CHURCHILL DOWNS
+https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="EEUU",31  SATELITE 1
