@@ -27,7 +27,8 @@ https://shlsakamai4.akamaized.net/hlsorigin/oaklawn_fm_1308/chunklist.m3u8?strea
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",SUNLAND
 https://shlsakamai4.akamaized.net/hlsorigin/sunland_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
-
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",VSIN
+https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
 
 
