@@ -15,6 +15,9 @@ https://shlsakamai3.akamaized.net/hlsorigin/fairgrounds_fm_1308/chunklist.m3u8?s
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",NYRA BETS
 https://shlsakamai4.akamaized.net/hlsorigin/nyra_bcast_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
+#EXTINF:-1 tvg-logo="-" group-title="EEUU",GULFSTREAM
+https://shlsakamai3.akamaized.net/hlsorigin/gulfstream_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
+
 
 
 
@@ -39,8 +42,8 @@ https://shlsakamai4.akamaized.net/hlsorigin/uk_hr_tote_fm_1308/chunklist.m3u8?st
 
 
 
-
-
+#EXTINF:-1 tvg-logo="-" group-title="CHILE", HIPODROMO CHILE
+https://shlsakamai4.akamaized.net/hlsorigin/hipodromo_chile_fm_1308/chunklist.m3u8?stream=uk_hr_tote_mbr&cust=TVG&user=&t=1709842302&h=f31e8f89a9174203cb1f54d1f432c26d&type=live
 
 
 
