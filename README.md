@@ -8,7 +8,7 @@
 https://shlsakamai4.akamaized.net/hlsorigin/louisiana_hd_fm_2200/chunklist.m3u8?stream=yonkers_mbr&cust=TVG&user=&t=1709846844&h=18e4c339137b573d904bb6c84267c236&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",2 AQUEDUCT
-https://shlsakamai4.akamaized.net/hlsorigin/aqueduct_fm_2200/chunklist.m3u8?
+https://shlsakamai3.akamaized.net/hlsorigin/aqueduct_fm_2200/chunklist.m3u8?
 stream=yonkers_mbr&cust=TVG&user=&t=1709846844&h=18e4c339137b573d904bb6c84267c236&type=live
 
 #EXTINF:-1 tvg-logo="-" group-title="EEUU",3 CAPITAL OTB
