@@ -126,3 +126,15 @@ https://e3wx7wloxn.zoeweb.tv/pmu7/stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="BRASIL", Jockey C BR 8
 https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
+
+
+-------DUBAI------
+------------------
+
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="DUBAI", Dubai Racing 
+https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="DUBAI", Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
